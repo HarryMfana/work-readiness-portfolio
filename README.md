@@ -2,7 +2,7 @@
 # 🌟 **Work Readiness E-Portfolio**  
 **Name:** Mfana Herold Ubisi  
 **Student Number:** 222662786  
-**Course:** APPLICATIONS DEVELOPMENT
+**Course:** APPLICATIONS DEVELOPMENT  
 **Institution:** Cape Peninsula University of Technology (CPUT)  
 **Academic Year:** 2025  
 
@@ -25,14 +25,13 @@
 ## 📊 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HarryMfana&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarryMfana&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-> ✍️ *Tip: Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username to make the stats work.*
 
 ---
 

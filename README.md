@@ -212,7 +212,7 @@ Lessons:
 
 ## 🌐 Professional Networking
 
--  ![Mock Interview Screenshot](https://github.com/HarryMfana/work-readiness-portfolio/blob/main/networking.PNG)
+-  ![Professional Screenshot](https://github.com/HarryMfana/work-readiness-portfolio/blob/main/networking.PNG)
 
 ### 🟡 STAR Reflection
 

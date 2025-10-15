@@ -167,13 +167,72 @@ VS Code · IntelliJ IDEA · GitHub · Figma · Lucidchart · Trello · MySQL · 
 
 ---
 
-## 🪄 **Reflection**
+## 🪄 **Reflection & Evidence**
 This portfolio captures my **evolution** — from learning the basics to leading and reflecting.  
 Lessons:
-- 🧼 Write maintainable code  
-- ⏰ Manage time effectively  
-- 🌍 Keep learning  
-- 🗣️ Communicate clearly between tech & non-tech spaces
+
+## 📨 Business Communication
+ 
+-  ![Business Communication Screenshot](https://github.com/HarryMfana/work-readiness-portfolio/blob/main/communication.PNG)
+
+### 🟡 STAR Reflection
+
+> **S:** Needed to strengthen my understanding of professional communication for workplace readiness.  
+> **T:** Complete the module with full comprehension of tone, non-verbal cues, and email etiquette.  
+> **A:** Reviewed course content and answered all quiz questions carefully.  
+> **R:** Achieved 100% — demonstrating strong ability to apply professional communication standards.
+
+---
+
+## 🧠 Interview Skills 
+
+-  ![Interview Skills Screenshot](https://github.com/HarryMfana/work-readiness-portfolio/blob/main/interview.PNG)
+
+### 🟡 STAR Reflection
+
+> **S:** Preparing for job interviews in a competitive tech industry.  
+> **T:** Learn key interview strategies and techniques to respond confidently.  
+> **A:** Completed the quiz and applied STAR & CAR techniques.  
+> **R:** Achieved 100%, improving my ability to structure strong, clear interview answers.
+
+---
+
+## 🗣️ Mock Interview
+
+-  ![Mock Interview Screenshot](https://github.com/HarryMfana/work-readiness-portfolio/blob/main/mock.PNG)
+
+### 🟡 STAR Reflection
+
+> **S:** I participated in a mock interview to simulate a real hiring process for a junior IT role.  
+> **T:** Present myself professionally, respond to typical interview questions, and receive feedback on body language and clarity.  
+> **A:** Dressed appropriately, maintained eye contact, answered using STAR, and practiced my introduction and closing statements.  
+> **R:** Gained confidence and received positive feedback on my composure and structured responses. Identified areas to improve, like slowing down my speech.
+
+---
+
+## 🌐 Professional Networking
+
+-  ![Mock Interview Screenshot](https://github.com/HarryMfana/work-readiness-portfolio/blob/main/networking.PNG)
+
+### 🟡 STAR Reflection
+
+> **S:** Recognized that professional networking is crucial for career growth in tech.  
+> **T:** Understand key networking principles and strategies to build meaningful professional relationships.  
+> **A:** Completed the quiz twice to correct mistakes and deepen my understanding.  
+> **R:** Achieved 100% on the second attempt and improved my knowledge on how to initiate and maintain professional connections.
+
+---
+
+## 🤝 Workplace Etiquette
+
+-  ![workplace Screenshot](https://github.com/HarryMfana/work-readiness-portfolio/blob/main/workplace.PNG)
+
+### 🟡 STAR Reflection
+
+> **S:** Needed to understand workplace professionalism beyond technical skills.  
+> **T:** Learn appropriate workplace behaviors such as punctuality, handling sensitive information, and communication etiquette.  
+> **A:** Completed the module twice, correcting initial mistakes.  
+> **R:** Achieved 100% and now feel more confident about behaving appropriately in a professional setting.
 
 ---
 

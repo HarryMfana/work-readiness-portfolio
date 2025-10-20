@@ -32,8 +32,7 @@
 ---
 
 ## 📑 **Table of Contents**
-- [📖 Introduction](#-introduction)  
-- [🧭 Personal Philosophy](#-personal-philosophy)  
+- [📖 Introduction](#-introduction)    
 - [💼 About Me](#-about-me)  
 - [🧠 Skills & Competencies](#-skills--competencies)  
 - [🎓 Academic Background](#-academic-background)  
@@ -43,8 +42,7 @@
 - [🧰 Tools & Technologies](#-tools--technologies)  
 - [🌐 Professional Presence](#-professional-presence)  
 - [🚀 Career Goals](#-career-goals)  
-- [🪄 Reflection](#-reflection)  
-- [📎 Supporting Documents](#-supporting-documents)  
+- [🪄 Reflection](#-reflection)   
 - [🗣️ References & Testimonials](#️-references--testimonials)  
 - [📩 Contact Information](#-contact-information)  
 - [📜 Footer](#-footer)
@@ -56,12 +54,6 @@ Welcome to my **Work Readiness E-Portfolio**, a comprehensive overview of my aca
 
 ---
 
-## 🧭 **Personal Philosophy**
-> *“Technology should not only solve problems — it should empower people and create meaningful change.”*  
-
-I believe in building **solutions that matter** — blending curiosity, discipline, and collaboration to create impact through technology.
-
----
 
 ## 💼 **About Me**
 I’m an Information Systems student specializing in **Application Development**. My academic experience has equipped me with strong technical and professional skills.  
@@ -95,12 +87,13 @@ My interests include:
   *Cape Peninsula University of Technology (2023 – 2025)*
 
 Key Modules:
-- Database Systems  
-- Software Development  
-- Systems Analysis & Design  
+- Applications Development Practice  
+- Applications Development Theory  
+- Project  
 - Professional Practice  
 - Project Management  
-- IT Ethics
+- Information System
+- ICT Elective
 
 ---
 
@@ -132,8 +125,6 @@ Key Modules:
 | 🗳️ Online Voting System | Backend and database for secure voting. | Java, MySQL |
 | 💸 Loan Management System | Booking and payment modules. | HTML/CSS/JS, Java |
 | 🧠 Entrepreneurship Report | Self-analysis of talents, needs, opportunities. | Writing, Reflection |
-
-📸 Screenshots, UML diagrams, and code samples are included in project folders.
 
 ---
 
@@ -232,17 +223,6 @@ Lessons:
 
 ---
 
-## 📎 **Supporting Documents**
-- 📄 CV / Resume  
-- 🧾 Academic Transcripts  
-- 🏅 Certificates  
-- 📝 Entrepreneurship Report  
-- 📚 Project Files  
-
-> All available in the `/docs` folder.
-
----
-
 ## 🗣️ **References & Testimonials**
 
 > *“Mfana consistently demonstrates initiative and leadership in group projects. His technical skills and positive attitude make him a valuable asset to any team.”*  
@@ -254,7 +234,7 @@ Lessons:
 ---
 
 ## 📩 **Contact Information**
-- 📧 **Email:** mfanaubisi@email.com  
+- 📧 **Email:** mfanaherold4@email.com  
 - 📱 **Phone:** +27822899781  
 - 📍 Cape Town, South Africa
 
